@@ -35,4 +35,3 @@ if choice in ['1', '2', '3', '4']:
         print("Result:", divide(num1, num2))
 else:
     print("Invalid input. Please select 1, 2, 3, or 4.")
-("this is Mwanapwani's calculator")
